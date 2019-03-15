@@ -1,0 +1,9 @@
+setup.py
+flask_boilerplate/__init__.py
+flask_boilerplate.egg-info/.DS_Store
+flask_boilerplate.egg-info/PKG-INFO
+flask_boilerplate.egg-info/SOURCES.txt
+flask_boilerplate.egg-info/dependency_links.txt
+flask_boilerplate.egg-info/not-zip-safe
+flask_boilerplate.egg-info/requires.txt
+flask_boilerplate.egg-info/top_level.txt
